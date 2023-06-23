@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b4378f5-6d65-4556-a615-696470e8e6cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../90-DSA/Strings/String_Basics/Intro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../90-DSA/Strings/String_Basics/String_Immutablity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Array_1D/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Array_1D/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/Arrays_Searching.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Binary_Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/First_And_Last.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Insert_Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Linear_Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Peak_Index_Mountain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Rotated_Binary_Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Rotated_Minimum1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/SQRT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Single_Element.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Smallest_Letter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Two_Sum_Sorted.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Arrays_Searching/src/com/sks/Valid_Perfect_Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/Interview_DSA_Problems.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Binary_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/First_And_Last.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Insert_Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Linear_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Peak_Index_Mountain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Rotated_Binary_Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Rotated_Minimum1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/SQRT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Single_Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Smallest_Letter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Two_Sum_Sorted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_DSA_Problems/out/production/Interview_DSA_Problems/com/sks/Valid_Perfect_Square.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QivoWQpF3o5W38Rn3vNNS1YdHJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b4378f5-6d65-4556-a615-696470e8e6cf" name="Changes" comment="" />
+      <created>1685849434300</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685849434300</updated>
+      <workItem from="1685849435450" duration="185000" />
+      <workItem from="1686022904247" duration="74000" />
+      <workItem from="1687154872592" duration="185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
