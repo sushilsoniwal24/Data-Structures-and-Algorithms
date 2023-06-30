@@ -6,6 +6,7 @@ This repository contains implementation of various data structures and algorithm
 
 - [Data Structures](#data-structures)
   - [Arrays](#arrays)
+  - [Strings](#strings)
   - [Linked List](#linked-list)
   - [Stacks](#stacks)
   - [Queues](#queues)
@@ -28,6 +29,14 @@ This repository contains implementation of various data structures and algorithm
 - [x] Searching in Arrays (Linear Search, Binary Search, etc.)
 - [x] 2D Arrays (Searching, Sorting, etc.)
 
+### Strings
+
+- [x] Introduction to Strings (Declaration, Initialisation, and Print)
+- [x] Immutable behavior of strings.
+- [x] Comparison of Strings.
+- [x] Concatenation of Strings.
+- [x] StringBuilder and StringBuffer.
+ 
 ### Linked List
 
 - [x] Singly Linked List (Basic Operations, Reversal, etc.)
